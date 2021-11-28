@@ -1,0 +1,30 @@
+body{
+    background-color: #78a4eb;
+}
+h2{
+    text-align: center;
+}
+.main{
+     background-color: white;
+     height:250px;
+     width:200px;
+     border: 1px solid black;
+     margin-left: 670px;
+     margin-top: 200px;
+     position: sticky;
+     overflow: scroll;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    text-align: center;
+    margin-left: 10px;
+}
+.A,.B,.C,.D,.E{
+    background-color: gainsboro;
+    width:100%;
+    position: sticky;
+    top:0;
+}
